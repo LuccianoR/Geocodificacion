@@ -1,6 +1,6 @@
-# Geocodificacion
-Geocodificación atreves del uso de Here Api.
+# Geocodificación
+Geocodificación a través del uso de Here Api.
 
-Este proyercto surgio por la nesesidad de localizar en un mapa las direcciones de un padron electoral de elecciones regionales intrapartidarias.
-Para ello se realizo el codigo expuesto en este repositorio. Con este proyecto logre experimentar mucho con las peticiones a apis externas y el manejo de mapas interactivos.
-Por razones de privacidad la base de datos con la que trabaje no sera puesta a dispocicion.
+Este proyecto surgió por la necesidad de localizar en un mapa las direcciones de un padrón electoral de elecciones regionales intra partidarias.
+Para ello se realizó el código expuesto en este repositorio. Con este proyecto logre experimentar mucho con las peticiones a apis externos y el manejo de mapas interactivos.
+Por razones de privacidad la base de datos con la que trabaje no será puesta a disposición, pero se expondrá en el archivo llamado “Informe” imágenes del resultado final del proyecto.
